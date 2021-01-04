@@ -1,0 +1,13 @@
+emp_id-唯一ID
+age-年龄
+dept-部门
+location-员工位置
+education-员工的教育状况
+recruitment_type-招聘方式
+job_level-1到5。员工的工作级别。1是最小位置，5是最高位置
+rating-1到5。员工的上一年等级。1是最小位置，5是最高位置
+onsite-员工曾经去过现场吗？0和1
+awards-奖项数量
+certifications-员工是否通过认证？
+salary-净薪金
+satisfied-员工对工作满意吗？
